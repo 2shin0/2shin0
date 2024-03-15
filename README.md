@@ -1,16 +1,32 @@
-### Hi there 👋
+<div align="left">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Shin%20Young%20's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+---
+  
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2shin0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/2shin0)
 
-<!--
-**2shin0/2shin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=2shin0&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/2shin0/github-readme-stats)
+ 
+<br>
 
-Here are some ideas to get you started:
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://velog.io/@sobit/posts">
+        <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Tistory&logoColor=white">
+    </a>
+</div><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:02.shin.00@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
+    
+## 🔨 Once I've used 🔨
+<div style="display:flex; flex-direction:row;">
+    <br>
+</div><br>
+</div>
+출처: https://easyhomputer.tistory.com/22 [6_oHji:티스토리]
