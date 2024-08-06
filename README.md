@@ -30,7 +30,7 @@
 <h3 align="center">👋 Follow Me 👋</h3>
 <p align="center">
   <a href="mailto:02.shin.00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=daekyeongp96@gmail.com"/></a>&nbsp
-  <a href="https://www.linkedin.com/in/신영-이-0563072b7/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/신영-이-0563072b7/"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/신영-이-0563072b7/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp
   <a href="https://velog.io/@sobit" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TechBlog-04B431?style=flat-square&logo=BookStack&logoColor=white&link=https://velog.io/@sobit"/></a>&nbsp
 </p>
 
