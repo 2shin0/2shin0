@@ -15,9 +15,9 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=FASTAPI&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/streamlit%20-%23FF0000.svg?style=flat-square&logo=streamlit&logoColor=white">/></a>&nbsp
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">/></a>&nbsp
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">/></a>&nbsp
+  <img src="https://img.shields.io/badge/streamlit%20-%23FF0000.svg?style=flat-square&logo=streamlit&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>&nbsp
 </p>
 <br/>
 
