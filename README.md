@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=200&section=header&text=Shin Young Lee&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=200&section=header&text=Shin-Young-Lee&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
 <h1 align="center">Hi! I'm Shin Young Lee 👋</h1>
 <h4 align="left">🔸 Edtech Data Scientist & Python Developer</h4> 
