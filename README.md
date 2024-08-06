@@ -1,51 +1,47 @@
-<div align="left">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Shin%20Young%20's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
----
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2shin0&count_bg=%2307daff&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/2shin0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=200&section=header&text=Shin Young Lee&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=2shin0&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/2shin0/github-readme-stats)
- 
-<br>
+<h1 align="center">Hi! I'm Shin Young Lee 👋</h1>
+<h4 align="left">🔸 Edtech Data Scientist & Python Developer</h4> 
+<br/>
 
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@sobit/posts">
-        <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Tistory&logoColor=white">
-    </a>
-</div><br>
 
- 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:02.shin.00@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
-    
-## 🔨 I've used 🔨
-<div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
-    <img src="https://img.shields.io/badge/streamlit%20-%23FF0000.svg?style=for-the-badge&logo=streamlit&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-    <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white">
-    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-    <br>
-    <img src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
-    <br>
-</div><br>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Amazon_AWS-ff9900?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Docker-2ca5e0?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=FASTAPI&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/streamlit%20-%23FF0000.svg?style=flat-square&logo=streamlit&logoColor=white">/></a>&nbsp
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">/></a>&nbsp
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">/></a>&nbsp
+</p>
+<br/>
 
-## ✅ Studying ✅
-<div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    <br>
+<h3 align="center">📜 Certificates 📜</h3>
+<p align="center">
+  <img src="https://github.com/2shin0/2shin0/assets/83285291/a6a8077c-f332-4e58-85b3-0ad6fc5910e2" width="15%" height="15%"></a>&nbsp
+</p>
+<br/>
+
+<h3 align="center">👋 Follow Me 👋</h3>
+<p align="center">
+  <a href="mailto:02.shin.00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=daekyeongp96@gmail.com"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/신영-이-0563072b7/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/신영-이-0563072b7/"/></a>&nbsp
+  <a href="https://velog.io/@sobit" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TechBlog-04B431?style=flat-square&logo=BookStack&logoColor=white&link=https://velog.io/@sobit"/></a>&nbsp
+</p>
+
+<br/>
+
+<h3 align="center">👨‍💻 My Github Stats 👨‍💻</h3>
+<div align="center">
+
+![Shin Young Lee's github stats](https://github-readme-stats.vercel.app/api?username=2shin0&theme=gruvbox&show_icons=true)
+<!--![Shin Young Lee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=2shin0&show_icons=true&hide_border=true&theme=gruvbox)-->
 </div>
+<br/>
+
+<hr>
