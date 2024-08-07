@@ -23,7 +23,7 @@
 
 <h3 align="center">📜 Certificates 📜</h3>
 <p align="center">
-  <img src="https://github.com/2shin0/2shin0/assets/83285291/a6a8077c-f332-4e58-85b3-0ad6fc5910e2" width="15%" height="15%"></a>&nbsp
+  ![다운로드](https://github.com/user-attachments/assets/d42e065c-1a19-4d6e-ac0a-ea8f0ffa261d)
 </p>
 <br/>
 
