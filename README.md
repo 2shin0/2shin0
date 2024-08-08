@@ -23,7 +23,7 @@
 
 <h3 align="center">📜 Certificates 📜</h3>
 <p align="center">
-  ![다운로드](https://github.com/user-attachments/assets/d42e065c-1a19-4d6e-ac0a-ea8f0ffa261d)
+  ![다운로드](https://github.com/user-attachments/assets/18254c32-402d-4d90-a24f-99cd569f62e5)
 </p>
 <br/>
 
