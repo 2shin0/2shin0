@@ -24,7 +24,7 @@
 <br/>
 
 <h3 align="center">📜 Certificates 📜</h3>
-<p align="center"><img width="40%" src="https://github.com/user-attachments/assets/057affb9-3a09-41de-ac03-46b1d9f2d29f"/>
+<p align="center"><img width="30%" src="https://github.com/user-attachments/assets/057affb9-3a09-41de-ac03-46b1d9f2d29f"/>
 </p>
 <br/>
 
