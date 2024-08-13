@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=200&section=header&text=Shin-Young-Lee&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
 <h1 align="center">Hi! I'm Shin Young Lee 👋</h1>
-<h4 align="left">🔸 Edtech Data Scientist & Python Developer</h4> 
+<h4 align="left">
+<p align="center">🔸 Edtech Data Scientist & Python Developer</h4> 
+</p>
 <br/>
 
 
@@ -22,9 +24,7 @@
 <br/>
 
 <h3 align="center">📜 Certificates 📜</h3>
-<img width="20%" src="https://github.com/user-attachments/assets/057affb9-3a09-41de-ac03-46b1d9f2d29f"/>
-<p align="center">
-  
+<p align="center"><img width="40%" src="https://github.com/user-attachments/assets/057affb9-3a09-41de-ac03-46b1d9f2d29f"/>
 </p>
 <br/>
 
