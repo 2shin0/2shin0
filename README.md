@@ -21,10 +21,12 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
 </p>
+<br/>
 
 <h3 align="center">📜 Certificates 📜</h3>
 <p align="center"><img width="30%" src="https://github.com/user-attachments/assets/057affb9-3a09-41de-ac03-46b1d9f2d29f"/>
 </p>
+<br/>
 
 <h3 align="center">👋 Follow Me 👋</h3>
 <p align="center">
@@ -32,10 +34,12 @@
   <a href="https://www.linkedin.com/in/신영-이-0563072b7/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp
   <a href="https://velog.io/@sobit" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TechBlog-04B431?style=flat-square&logo=BookStack&logoColor=white&link=https://velog.io/@sobit"/></a>&nbsp
 </p>
+<br/>
 
 <h3 align="center">👨‍💻 My Github Stats 👨‍💻</h3>
 <div align="center">
-
+<br/>
+  
 ![Shin Young Lee's github stats](https://github-readme-stats.vercel.app/api?username=2shin0&theme=gruvbox&show_icons=true)
 <!--![Shin Young Lee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=2shin0&show_icons=true&hide_border=true&theme=gruvbox)-->
 </div>
