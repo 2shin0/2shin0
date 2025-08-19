@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0642b94a-0f1a-4d2a-b9f1-f10367a64a5d" height="150"/>
   <img src="https://github.com/user-attachments/assets/98798762-ab94-4b8f-99a5-9ad00688caa9" height="120"/>
-  <img src="https://github.com/user-attachments/assets/f56cd7f9-3035-428e-8cd7-04102d165e59" height="120"/>
+  <img src="https://github.com/user-attachments/assets/f56cd7f9-3035-428e-8cd7-04102d165e59" height="140"/>
 </p>
 <br/>
 
