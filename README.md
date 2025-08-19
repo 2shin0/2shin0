@@ -25,7 +25,7 @@
 
 <h3 align="center">📜 Certificates 📜</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/057affb9-3a09-41de-ac03-46b1d9f2d29f" height="120"/>
+  <img src="https://github.com/user-attachments/assets/057affb9-3a09-41de-ac03-46b1d9f2d29f" height="150"/>
   <img src="https://github.com/user-attachments/assets/98798762-ab94-4b8f-99a5-9ad00688caa9" height="120"/>
   <img src="https://github.com/user-attachments/assets/f56cd7f9-3035-428e-8cd7-04102d165e59" height="120"/>
 </p>
