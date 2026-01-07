@@ -39,13 +39,13 @@
 </p>
 <br/>
 
-<h3 align="center">👨‍💻 My Github Stats 👨‍💻</h3>
+<!-- <h3 align="center">👨‍💻 My Github Stats 👨‍💻</h3>
 <div align="center">
 <br/>
   
 ![Shin Young Lee's github stats](https://github-readme-stats-y8tm.vercel.app/api?username=2shin0&theme=gruvbox&show_icons=true)
 <!--![Shin Young Lee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=2shin0&show_icons=true&hide_border=true&theme=gruvbox)-->
 </div>
-<br/>
+<br/> -->
 
 <hr>
