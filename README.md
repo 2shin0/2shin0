@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi! I'm Shin Young Lee 👋</h1>
 <h4 align="left">
-<p align="center">🔸 Edtech Data Scientist & Python Developer</h4> 
+<p align="center">🔸 Data Scientist </h4> 
 </p>
 <br/>
 
